@@ -1,0 +1,21 @@
+{
+    "media": [
+        {
+            "defName": "IMAGE_MENU_ICON",
+            "type": "png",
+            "file": "images/artdeco_icon.png"
+        },
+        {
+            "defName": "IMAGE_BACKGROUND",
+            "type": "png",
+            "file": "images/artdeco_background.png"
+        },
+        {
+            "defName": "FONT_OPENSANS_REGULAR_12",
+            "type": "font",
+            "file": "fonts/OpenSans-Regular.ttf"
+        }
+    ],
+    "friendlyVersion": "VERSION",
+    "versionDefName": "APP_RESOURCES"
+}
