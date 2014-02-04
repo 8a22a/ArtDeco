@@ -1,0 +1,35 @@
+{
+    "versionLabel": "2.0.1",
+    "uuid": "1d73ca4b-93c0-4374-9d24-1669ca43262d",
+    "appKeys": {},
+    "longName": "Art Deco",
+    "versionCode": 2,
+    "capabilities": [
+        ""
+    ],
+    "shortName": "Art Deco",
+    "companyName": "8a22a",
+    "watchapp": {
+        "watchface": true
+    },
+    "resources": {
+        "media": [
+            {
+                "type": "font",
+                "name": "FONT_OPENSANS_REGULAR_12",
+                "file": "fonts/OpenSans-Regular.ttf"
+            },
+            {
+                "type": "png",
+                "name": "IMAGE_BACKGROUND",
+                "file": "images/artdeco_background.png"
+            },
+            {
+                "menuIcon": true,
+                "type": "png",
+                "name": "IMAGE_MENU_ICON",
+                "file": "images/artdeco_icon.png"
+            }
+        ]
+    }
+}
